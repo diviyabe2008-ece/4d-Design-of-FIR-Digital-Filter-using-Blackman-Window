@@ -99,6 +99,11 @@ title('Frequency Response of FIR HPF using Blackman Window');
 
 <img width="538" height="723" alt="image" src="https://github.com/user-attachments/assets/2a727f41-2211-4e49-8658-95277df917c2" />
 
+# MANUAL CALCULATION :
+<img width="1040" height="1599" alt="WhatsApp Image 2026-09-06 at 10 52 17 AM" src="https://github.com/user-attachments/assets/1a3ae892-6e11-472a-9940-46b22d7498f1" />
+<img width="1008" height="1599" alt="WhatsApp Image 2026-09-06 at 10 52 29 AM" src="https://github.com/user-attachments/assets/a3eb0b02-b180-4572-9e6c-e120df9e1f0a" />
+<img width="1016" height="1601" alt="WhatsApp Image 2026-09-06 at 10 52 39 AM" src="https://github.com/user-attachments/assets/569df563-425a-4356-bc3b-0c24f401548e" />
+
 
 # RESULT: 
 Thus design of HIGH pass FIR digital filter using-Blackman-Window waveforms were plotted and output was verified.
